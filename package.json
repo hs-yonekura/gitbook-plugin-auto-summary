@@ -1,0 +1,33 @@
+{
+	"name": "gitbook-plugin-auto-summary",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"engines": {
+		"gitbook": "*"
+	},
+	"dependencies": {
+		"async": "^1.5.0",
+		"bash-color": "0.0.3",
+		"cheerio": "^0.20.0",
+		"commander": "^2.9.0",
+		"front-matter": "^2.1.1",
+		"fs-extra": "^0.26.2",
+		"iconv-lite": "^0.4.13",
+		"lodash": "^3.10.1",
+		"path": "^0.12.7",
+		"request": "^2.69.0",
+		"to-markdown": "^2.0.1"
+	},
+	"devDependencies": {
+		"coveralls": "^2.11.4",
+		"istanbul": "^0.4.0",
+		"mocha": "^2.3.3",
+		"should": "^7.1.1"
+	}
+}
