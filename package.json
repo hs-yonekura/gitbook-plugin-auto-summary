@@ -12,7 +12,7 @@
 		"gitbook": "*"
 	},
 	"dependencies": {
-		"async": "^1.5.0",
+		"async": "^3.2.2",
 		"bash-color": "0.0.3",
 		"cheerio": "^0.20.0",
 		"commander": "^2.9.0",
